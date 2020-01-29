@@ -13,3 +13,9 @@ del_comment, delete_document
 ```
 discount -> 할인율
 ```
+
+### 1.3. 변수 이름에 반환값들을 집어 넣는다.
+
+```
+use_yn, 반환값 = "Y, N"
+```
