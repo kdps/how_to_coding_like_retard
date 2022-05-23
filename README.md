@@ -2,6 +2,8 @@
 
 https://dev.to/seek4samurai/art-of-shit-coding-4f5p
 
+https://www.reddit.com/r/PHP/comments/1lpgqk/worst_practices/
+
 ### 모든 변수명을 is와 조합하여 사용하라.
 
 is와 조합하여 변수명을 완성하면 가독성이 엄청나게 개선된다. (isImageSize isMulti isMore) has contains to와 같은 겉치레는 필요없다.
