@@ -74,3 +74,7 @@ True, False 값으로 표현할 수 있는 모든것을 String (T, F, true, fals
 ### 동사와 명사의 순서를 바꾸는식으로 사용한다
 
 goPageMain, PageGoMain과 같이 사용하라. 이해는 되지 않는가? 이런 사람들은 평소에 대화할때 말을 '먹는다밥식당'과 같이 사용하는것인가? UploadSingle UploadMultiple과 같은 변수명은 통일성을 준다는 명목이라도 있지 저건 도대체 무슨 생각으로 짠 변수인지 이해가 되는가?
+
+### 변수나 메소드가 수행하는 행위가 2가지 이상으로 지정하라
+
+이름을 mother_button로 지정하고 메소드/변수의 행위가 뒤지는 행위, 타는 행위, 무덤에 들어가는 행위, 외 여러가지 행위를 할 수 있으면 더 좋다. 사용할 수 있는 세상에서 아름다운 메소드명을 제시한다. telLoginLogoutCallBuyResetNotSetDataButton 어떤가? 아름답지 않는가?
