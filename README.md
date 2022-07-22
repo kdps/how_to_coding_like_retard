@@ -73,4 +73,4 @@ True, False 값으로 표현할 수 있는 모든것을 String (T, F, true, fals
 
 ### 동사와 명사의 순서를 바꾸는식으로 사용한다
 
-goPageMain, PageGoMain과 같이 사용하라. 이해는 되지 않는가? 이런 사람들은 평소에 대화할때 말을 '먹는다밥식당'과 같이 사용하는것인가?
+goPageMain, PageGoMain과 같이 사용하라. 이해는 되지 않는가? 이런 사람들은 평소에 대화할때 말을 '먹는다밥식당'과 같이 사용하는것인가? UploadSingle UploadMultiple과 같은 변수명은 통일성을 준다는 명목이라도 있지 저건 도대체 무슨 생각으로 짠 변수인지 이해가 되는가?
